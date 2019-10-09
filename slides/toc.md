@@ -2,13 +2,12 @@
 
 #### Construcción de imágenes (Dockerfile)
 
-* Dockerfile
-* `docker image build`
-* ENV y WORKDIR 
+* [Nuestra primera imagen](#/dockerfile)
+* Entry point vs CMD
+* Instrucciones en el Dockerfile
+* ENV y WORKDIR   
 * Ejecutando comandos
 * Añadiendo ficheros a nuestra imagen
-* Otras instrucciones
-* Entry point vs CMD
 * Best Practices
 * Ejercicio
 
