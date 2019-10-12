@@ -7,7 +7,7 @@
 * [Instrucciones en el Dockerfile](#/dockerfile-instructions)   
 * [Ejecutando comandos](#/running-commands)
 * [Añadiendo ficheros a nuestra imagen](/#copy-files)
-* Best Practices
+* [Buenas prácticas](/#best-practices)
 * Ejercicio
 
 notes:
