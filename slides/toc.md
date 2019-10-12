@@ -2,7 +2,7 @@
 
 #### Construcción de imágenes (Dockerfile)
 
-* [Nuestra primera imagen](#/dockerfile)
+* [Nuestra primera imagen](#/our-first-image)
 * [ENTRYPOINT vs CMD](#/entrypoint-vs-cmd)
 * [Instrucciones en el Dockerfile](#/dockerfile-instructions)   
 * [Ejecutando comandos](#/running-commands)
