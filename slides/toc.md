@@ -6,7 +6,7 @@
 * [ENTRYPOINT vs CMD](#/entrypoint-vs-cmd)
 * [Instrucciones en el Dockerfile](#/dockerfile-instructions)   
 * [Ejecutando comandos](#/running-commands)
-* Añadiendo ficheros a nuestra imagen
+* [Añadiendo ficheros a nuestra imagen](/#copy-files)
 * Best Practices
 * Ejercicio
 
