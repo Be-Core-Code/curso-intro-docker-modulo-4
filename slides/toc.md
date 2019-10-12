@@ -8,7 +8,7 @@
 * [Ejecutando comandos](#/running-commands)
 * [Añadiendo ficheros a nuestra imagen](/#copy-files)
 * [Buenas prácticas](/#best-practices)
-* Ejercicio
+* [Ejercicio](/#exercise)
 
 notes:
 
