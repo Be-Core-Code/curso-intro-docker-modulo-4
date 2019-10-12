@@ -5,8 +5,7 @@
 * [Nuestra primera imagen](#/dockerfile)
 * [ENTRYPOINT vs CMD](#/entrypoint-vs-cmd)
 * [Instrucciones en el Dockerfile](#/dockerfile-instructions)   
-* ENV y WORKDIR
-* Ejecutando comandos
+* [Ejecutando comandos](#/running-commands)
 * Añadiendo ficheros a nuestra imagen
 * Best Practices
 * Ejercicio
