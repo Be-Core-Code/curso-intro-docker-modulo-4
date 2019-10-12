@@ -39,3 +39,20 @@ echo $HOME
   windows):
   * Usando la instrucción `SHELL`
   * Usando `RUN ["/bin/bash", "command"]`
+
+^^^^^^
+
+### 💻️ Ejercicio ️️💻️
+
+* En el módulo anterior, creamos un contenedor con nuestra aplicación en rails ¿te acuerdas?
+* Si quisiese crear una app en rails nueva ¿qué tendrías que hacer?
+* Crea un `Dockerfile` para evitarlo
+
+^^^^^^
+
+### 💻️ Ejercicio (extra) ️️💻️
+
+* Sube tu `Dockerfile` a un repositorio en github
+* Crea un repositorio en Docker Hub y conectalo con github
+* Verifica que al hacer push al repositorio en github, tu imagen se actualiza
+  en Docker Hub
